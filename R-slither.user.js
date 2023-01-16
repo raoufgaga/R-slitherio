@@ -7,7 +7,7 @@
 // @require      http://code.jquery.com/jquery-latest.js
 // @match        http://slither.io/
 // @run-at document-start
-// @grant        GM_xmlhttpRequest
+// @grant        gece altinda
 // ==/UserScript==
 
 var s = document.createElement('script');
